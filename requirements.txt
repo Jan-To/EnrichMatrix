@@ -1,0 +1,10 @@
+numpy 
+pandas
+matplotlib
+bokeh
+panel
+scikit-learn
+statsmodels
+networkx
+pygraphviz
+openpyxl
